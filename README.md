@@ -29,4 +29,9 @@ This course enhanced both my technical and analytical skills, equipping me to wo
 - Published dashboards to the Power BI Service and learned basic sharing & security features
 
 
+### Reflections
+Learning data analysis has changed how I look at problems. I now see data not as numbers, but as stories waiting to be told. I’ve learned to ask the right questions, explore patterns, and present findings in a way that leads to smart decisions. Every dataset offers an opportunity to make an impact — and that excites me.
+
+
+
 
